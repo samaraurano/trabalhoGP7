@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: url(Untitled\ design.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: "bebas neue", sans-serif;
+    color: rgb(160, 0, 0);
+    text-align: center;
+}
+
+
+body {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  .nav-link {
+ 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    transition: backgroud color 0,3s ease;
+  }
+
+  img {
+    border-radius: 32px;
+
+
+}
+
+.netflix {
+    font-size: xx-large;
+
+}
+
+p {
+    margin-left: 450px;
+    text-align: justify;
+    width: 1000px;
+    display: auto;
+ 
+}
+
+h2 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+
+}
+
